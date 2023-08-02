@@ -16,7 +16,7 @@ Export of the pipeline
 
 ## Results
 
-The model was trained on 100% of the data using a Cross Validation technique. The model correctly predicted the career length of basketball players with an accuracy of 76%.
+The model was trained on 100% of the data using a Cross Validation technique. The model correctly predicted the career length of basketball players with an precision of 76%.
 
 ## Conclusion
 
