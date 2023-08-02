@@ -20,5 +20,5 @@ The model was trained on 100% of the data using a Cross Validation technique. Th
 
 ## Conclusion
 
-This notebook shows how to create a pipeline to create a machine learning model that can predict the career length of basketball players. 
+This notebook shows how to create a pipeline for a machine learning model that can predict the career length of basketball players. 
 
