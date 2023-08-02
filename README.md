@@ -1,4 +1,4 @@
-# MAchine Learning Pipeline
+# Machine Learning Pipeline
 Notebook dedicated to pipelines, the transition from notebooks to production.
 
 ## The model
