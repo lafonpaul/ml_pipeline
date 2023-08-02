@@ -5,14 +5,14 @@ Notebook dedicated to pipelines, the transition from notebooks to production.
 
 The model used for this project is a Sklearn pipeline model. The notebook includes the following steps:
 
-Data preprocessing and normalization
-Numerical and categorical variable encoding
-Feature regularization
-Model selection
-Model training
-Model's parameters adjustment
-Model evaluation
-Export of the pipeline
+- Data preprocessing and normalization
+- Numerical and categorical variable encoding
+- Feature regularization
+- Model selection
+- Model training
+- Model's parameters adjustment
+- Model evaluation
+- Export of the pipeline
 
 ## Results
 
