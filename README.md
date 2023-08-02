@@ -20,4 +20,5 @@ The model was trained on 100% of the data using a Cross Validation technique. Th
 
 ## Conclusion
 
-The results of this project show that it is possible to create a machine learning model that can predict the career length of basketball players with a high accuracy. This model can be used by basketball teams to identify players who have the potential for a long career.
+This notebook shows how to create a pipeline to create a machine learning model that can predict the career length of basketball players. 
+
